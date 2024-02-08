@@ -1,0 +1,9 @@
+xdog2:
+  interval: 60
+  redis:
+    host: localhost
+    port: 6379
+  servers:
+    127.0.0.1:10085:
+      insecure: true
+      alias: localhost

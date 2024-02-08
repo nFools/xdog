@@ -1,0 +1,7 @@
+Flask==3.0.2
+loguru==0.7.2
+MarkupSafe==2.1.5
+pandas==2.2.0
+redis==5.0.1
+flask_basicauth
+pyyaml
